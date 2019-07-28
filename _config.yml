@@ -14,9 +14,9 @@ keywords: kokoyuo,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故�
 encoding: "utf-8"
 favicon: favicon.png
 
-repository: kokoyuo/kokoyuo.github.io
-github_url: https://github.com/kokoyuo
-url: https://kokoyuo.github.io
+repository: kokoyuo/u201311.github.io
+github_url: https://github.com/u201311
+url: https://u201311.github.io
 
 ## Gem
 plugins:
